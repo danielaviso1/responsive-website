@@ -1,0 +1,9 @@
+.invert{
+    color: white;
+}
+
+#hello:hover{
+    background: #503bff;
+    box-shadow: none;
+    transition: .3s all ease-in-out;
+}
