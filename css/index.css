@@ -7,3 +7,18 @@
     box-shadow: none;
     transition: .3s all ease-in-out;
 }
+
+.parallax { 
+    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('../images/y.jpg');
+  
+    height: 300px; 
+    margin-top: -100px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .bottom-content{
+      height: 400px;
+  }
